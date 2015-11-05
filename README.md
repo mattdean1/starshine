@@ -5,7 +5,7 @@ a theatre seat booking system for AS computing
 Uploaded for posterity and so progress can be shown
 
 
-###The Project
+####The Project
 Given a scenario, I created a system for a small local theatre that would allow customers to book seats.
 
 Customers are first asked to select which show, and on what date they would like to attend.
