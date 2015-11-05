@@ -1,12 +1,13 @@
 # starshine
-a theatre ticket booking system for AS computing
+a theatre seat booking system for AS computing
 
-###my first coding project!
+###My first coding project!
+Uploaded for posterity and so progress can be shown
 
 
+###The Project
 Given a scenario, I created a system for a small local theatre that would allow customers to book seats.
 
-/n
 Customers are first asked to select which show, and on what date they would like to attend.
 
 They then select their seats:
@@ -22,3 +23,7 @@ I then insert these details into the MySQL database, and update the seat booking
 The customer also recieves a confirmation email:
 
 ![The customer also recieves a confirmation email](screenshots/email.JPG)
+
+
+Unfortunately the integration of a payment system was outside the scope of the project - the writeup took precedence over the code.
+However my A2 project: [[link]] does include a working paypal integration - progress!
