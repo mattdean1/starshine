@@ -1,9 +1,6 @@
 # starshine
 a theatre seat booking system for AS computing
 
-###My first coding project!
-Uploaded for posterity and so progress can be shown
-
 
 ####The Project
 Given a scenario, I created a system for a small local theatre that would allow customers to book seats.
