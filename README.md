@@ -1,5 +1,5 @@
 # starshine
-a theatre seat booking system for AS computing
+a theatre seat booking system for AS computing, 2012-13
 
 This was my introduction to coding, and I had a lot of fun using PHP, MySQL, HTML/CSS and a little bit of JavaScript all for the first time.
 
