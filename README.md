@@ -1,6 +1,9 @@
 # starshine
 a theatre seat booking system for AS computing
 
+This was my introduction to coding, and I had a lot of fun using PHP, MySQL, HTML/CSS and a little bit of JavaScript all for the first time.
+
+It was a steep learning curve but I was very pleased to come out with a very functional product by the end of the year.
 
 ####The Project
 Given a scenario, I created a system for a small local theatre that would allow customers to book seats.
