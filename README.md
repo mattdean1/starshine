@@ -26,4 +26,4 @@ The customer also recieves a confirmation email:
 
 
 Unfortunately the integration of a payment system was outside the scope of the project - the writeup took precedence over the code.
-However my A2 project: [[link]] does include a working paypal integration - progress!
+However [my A2 project](https://github.com/mattdean1/gym) does include a working paypal integration - progress!
